@@ -1,0 +1,17 @@
+{
+  "name": "language-tm1",
+  "version": "0.0.0",
+  "description": "TM1 language support in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeremyHeleine/language-tm1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JeremyHeleine/language-tm1/issues"
+  },
+  "license": "MIT"
+}
