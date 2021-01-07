@@ -4,10 +4,6 @@
 
 'patterns': [
 	{
-		'match': '\\b(([0-9]+\\.?[0-9]*)|(\\.[0-9]+))\\b'
-		'name': 'constant.numeric.tm1'
-	},
-	{
 	    'begin': '\''
 	    'end': '\''
 	    'name': 'string.quoted.single.mylanguage'
