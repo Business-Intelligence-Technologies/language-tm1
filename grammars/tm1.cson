@@ -8,8 +8,8 @@
 		'name': 'constant.numeric.tm1'
 	},
 	{
-	    'begin': '''
-	    'end': '''
+	    'begin': '\''
+	    'end': '\''
 	    'name': 'string.quoted.single.mylanguage'
 	}
 
