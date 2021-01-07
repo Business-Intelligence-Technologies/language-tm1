@@ -1,0 +1,10 @@
+'scopeName': 'source.tm1'
+'name': 'TM1'
+'fileTypes': ['rux', 'pro']
+
+'patterns': [
+	{
+		'match': '\\b(([0-9]+\\.?[0-9]*)|(\\.[0-9]+))\\b'
+		'name': 'constant.numeric.tm1'
+	}
+]
