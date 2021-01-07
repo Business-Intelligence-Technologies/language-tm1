@@ -8,10 +8,10 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/JeremyHeleine/language-tm1.git"
+    "url": "https://github.com/Business-Intelligence-Technologies/language-tm1.git"
   },
   "bugs": {
-    "url": "https://github.com/JeremyHeleine/language-tm1/issues"
+    "url": "https://github.com/Business-Intelligence-Technologies/language-tm1/issues"
   },
   "license": "MIT"
 }
